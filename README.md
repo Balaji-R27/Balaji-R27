@@ -7,18 +7,21 @@
 <img alt="balaji-r27 github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=balaji-r27&show_icons=true&count_private=true&hide_border=true&bg_color=FFC025,FFC51E,FF7E26&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-r27&layout=compact&count_private=true&&hide_border=true&bg_color=1ABCFE&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
 <br>
-<hr>
+ 
+![](https://i.imgur.com/waxVImv.png)
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <samp>I'm Balaji, I am a tech and management enthusiast, aspire to become a cloud evangelist and envision myself excelling as a Product / Program Manager in my future career.
 </samp>
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=balaji-r27&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-r27"/> </p>
-<hr>
+
+![](https://i.imgur.com/waxVImv.png)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/r-balaji27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r balaji" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_v4kidoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_v4kidoo" height="30" width="40" /></a>
- <hr></hr>
+ 
+![](https://i.imgur.com/waxVImv.png)
 </p>
 <h3 align="center">Languages </h3>
 <p align="center"> <p space-between>
@@ -33,6 +36,8 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
 </p> 
 <br>
+
+![](https://i.imgur.com/waxVImv.png)
 <h3 align="center">Technologies</h3>
 <p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
