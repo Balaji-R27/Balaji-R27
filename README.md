@@ -9,6 +9,7 @@
 <br>
  
 ![](https://i.imgur.com/waxVImv.png)
+
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <samp>I'm Balaji, I am a tech and management enthusiast, aspire to become a cloud evangelist and envision myself excelling as a Product / Program Manager in my future career.
 </samp>
@@ -16,12 +17,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=balaji-r27&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-r27"/> </p>
 
 ![](https://i.imgur.com/waxVImv.png)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/r-balaji27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r balaji" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_v4kidoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_v4kidoo" height="30" width="40" /></a>
  
 ![](https://i.imgur.com/waxVImv.png)
+
 </p>
 <h3 align="center">Languages </h3>
 <p align="center"> <p space-between>
@@ -38,6 +41,7 @@
 <br>
 
 ![](https://i.imgur.com/waxVImv.png)
+
 <h3 align="center">Technologies</h3>
 <p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
