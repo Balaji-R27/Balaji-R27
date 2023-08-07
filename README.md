@@ -11,11 +11,18 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
-<samp>I'm Balaji, I am a tech and management enthusiast, aspire to become a cloud evangelist and envision myself excelling as a Product / Program Manager in my future career.
-</samp>
-<br><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=balaji-r27&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-r27"/> </p>
 
+ 💻 **Aspiring Software Developer** and **a sophomore in computer science** 🎓. My passion for Computer Science brought me here. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.
+ <br>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+-  🔭 I'm currently learning **Backend Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
+  
+-  🌱 I'm familiar with  NodeJS, mySQL, Git, Linux⚙️.
+
+-   👀 I’m interested in Open Source Projects and Technical Writing.
+  
+<br><br>
 ![](https://i.imgur.com/waxVImv.png)
 
 <h3 align="center">Connect with me:</h3>
