@@ -13,6 +13,7 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
  💻 **Aspiring Software Developer** and **a sophomore in computer science** 🎓.<br>
+ <br>
  My passion for Computer Science brought me here.</br> I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.
  <br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
